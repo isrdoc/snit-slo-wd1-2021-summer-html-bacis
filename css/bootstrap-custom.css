@@ -1,0 +1,9 @@
+[class*="col"] {
+    border: 2px solid black;
+}
+
+@media (max-width: 1500px) {
+    [class*="col"] {
+        border: 4px solid black;
+    }
+}

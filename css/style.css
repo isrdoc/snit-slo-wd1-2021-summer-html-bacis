@@ -1,0 +1,24 @@
+h2 {
+    color: red;
+}
+.invisible {
+    display: none;
+}
+li {
+    display: list-item !important;
+    font-weight: bold;
+    font-size: 40px;
+    color: purple;
+}
+ul li {
+    color: darkgreen;
+}
+#first-item {
+    background-color: yellow;
+}
+.opacity-low {
+    opacity: 0.3;
+}
+li {
+    font-size: 30px;
+}
